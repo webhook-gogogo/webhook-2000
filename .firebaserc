@@ -1,5 +1,6 @@
 {
   "projects": {
-    "webhook2000": "webhook2000"
+    "webhook2000": "webhook2000",
+    "webhook-2000": "webhook-2000"
   }
 }
