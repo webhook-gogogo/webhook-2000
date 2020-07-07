@@ -20,7 +20,7 @@
     "firebase-functions": "^3.1.0",
     "install": "^0.13.0",
     "messaging-api-messenger": "^0.8.2",
-    "npm": "^6.11.2",
+    "npm": "^6.14.6",
     "request": "^2.88.0"
   },
   "devDependencies": {
